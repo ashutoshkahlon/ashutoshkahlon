@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashutoshkahlon
-- 👀 I’m interested in html (fronend internship)
+- 👀 I’m interested in html,css,js (frontend internship)
 - 🌱 I’m currently learning JAVA SCRIPT
 - 💞️ I’m looking to collaborate on making webpages
 - 📫 How to reach me by my added insta link
